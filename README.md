@@ -11,13 +11,3 @@ pnpm install
 
 pnpm run dev
 ```
-
-# Backend :
-
-run :
-
-```
-pnpm install
-
-pnpm run start
-```
